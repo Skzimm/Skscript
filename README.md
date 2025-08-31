@@ -64,7 +64,7 @@ SKScript is a `.lua` file and requires a Roblox script executor to run. Recommen
 
 Paste this into your executor to instantly load SKScript on Roblox:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzim/SKScript/main/source.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzim/SKScript/main/SKScript_beta.lua", true))()
 ```
 
 ---
@@ -167,7 +167,7 @@ SKScript é um arquivo `.lua` e requer um executor de scripts para funcionar no 
 Cole isso no seu executor para carregar o SKScript instantaneamente no Roblox:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzim/SKScript/main/source.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzim/SKScript/main/SKScript_beta.lua", true))()
 ```
 
 ---
